@@ -1,0 +1,56 @@
+
+body {
+    background-color: navajowhite;
+    color: firebrick;
+    font-family: Arial, sans-serif; 
+  
+}
+
+/* Styling for h1 in all HTML files */
+h1 {
+    font-size: 28px;
+    margin-bottom: 20px; 
+}
+
+
+/* Styling for ramen.html */
+body#ramen {
+    background-color: #002C54; 
+    color: #FDF6F6;
+    
+}
+
+/* Styling for  h1 in ramen.html */
+body#ramen h1 {
+    color:  #002C54; 
+    background-color: white;
+}
+
+/* Styling for onigiri.html */
+body#onigiri {
+    background-color: #31473A;
+    color: #EDF4F2; 
+}
+
+/* Styling for  h1 in onigiri.html */
+body#onigiri h1 {
+    color: #EDF4F2; 
+}
+
+/* Styling for tempura.html */
+body#tempura {
+    background-color:#ffbb98;
+    color: red;
+}
+
+/* Styling for  h1 in tempura.html */
+body#tempura h1 {
+    color: red;
+}
+body#tempura h4{
+    text-align: center;
+}
+
+body#tempura ul{
+    text-align: center;
+}
