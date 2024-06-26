@@ -3,7 +3,46 @@ body {
     background-color: navajowhite;
     color: firebrick;
     font-family: Arial, sans-serif; 
-  
+
+   
+}
+
+.recipe-header{
+    display: block;
+    border: solid brown ;
+    background-color: brown;
+    color:navajowhite ;
+    padding: auto;
+}
+
+.recipe-page{
+    border: 2px solid brown;
+    box-sizing: border-box;
+    margin: 30px;
+    width: 400px;
+    height: 400px;
+    text-align: center;
+    border-radius: 20px;
+    
+}
+.recipe-list{
+    display: block;
+    font-size: 15px;
+    
+}
+#first-recipe{
+    margin-bottom: 75px;
+    margin-right: 250px;
+   
+}
+#second-recipe{
+    margin-bottom: 75px;
+    margin-right: 230px;
+}
+
+#third-recipe{
+    margin-right: 240px;
+
 }
 
 /* Styling for h1 in all HTML files */
